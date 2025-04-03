@@ -13,6 +13,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 # Mobile App in laravel using Progressive Web App
 
-````
+```
 https://www.pwabuilder.com/
-``
+```
